@@ -4,14 +4,14 @@ end
 
 def my_hash
   
-  {faviorte_color => "green"}
+  {faviorte_color => "blue"}
 end
 
 def pioneer
-  { name: "Walid Younis"}
+  { name: "Grace Hopper"}
 end
 
 
 def id_hash_generator(number)
-  { id: 25}
+  { id: number}
 end
