@@ -4,7 +4,7 @@ end
 
 def my_hash
   
-  {faviorte_color => "blue"}
+  { faviorte_color : "blue" }
 end
 
 def pioneer
